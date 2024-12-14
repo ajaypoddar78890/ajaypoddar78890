@@ -1,6 +1,6 @@
  
 
-<h1 align="center">Hi 👋, I'm Supun Nanayakkar</h1>
+<h1 align="center">Hi 👋, I'm Ajay Poddar</h1>
 <h3 align="center">A passionate Programmer from New delhi , india</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 <p align="center"> 
@@ -66,12 +66,7 @@
   </a>
 </p>
 
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
-  </a>
-</p>
+ 
 
 - Tools
 <p align="left">
