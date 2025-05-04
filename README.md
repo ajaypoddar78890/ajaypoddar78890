@@ -1,4 +1,6 @@
-<!-- Banner or Header -->
+ 
+  
+<!-- Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F57C00&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Ajay+Poddar;Full-Stack+Web+Developer;Creative+Technologist+%26+Problem+Solver;Let's+Build+Something+Awesome+Together!">
 </p>
@@ -16,11 +18,11 @@ From crafting sleek UIs to deploying production APIs, I'm always learning, build
 
 ## 🧠 About Me
 
-- 🔭 Currently working on **Moreslides** – an innovative presentation tool
-- 🌱 Learning **Three.js**, **WebGL**, **GLSL**, and advanced performance optimization
-- 💬 Ask me about: **JavaScript, React, Node.js, SCORM, Animations, Design Systems**
-- ⚡ Fun fact: I often debug bugs just to find out I forgot a semicolon 😅
-- 📫 Reach me at: [ajay.poddar15fea@gmail.com](mailto:ajay.poddar15fea@gmail.com)
+- 🔭 Currently working on ** Scaramango Technolgies** – an innovative presentation tool  
+- 🌱 Doing ****, **RealTime app**, **building Amazing Fetures**, and advanced performance optimization  
+- 💬 Ask me about: **JavaScript, React, Node.js, SCORM, Animations, Design Systems (Dsa Too 😉)**  
+- ⚡ Fun fact: I often debug bugs just to find out I forgot a semicolon 😅  
+- 📫 Reach me at: [ajay.poddar15fea@gmail.com](mailto:ajay.poddar15fea@gmail.com)  
 
 ---
 
@@ -43,25 +45,57 @@ From crafting sleek UIs to deploying production APIs, I'm always learning, build
 
 ---
 
-## 🌟 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|--------|
-| 🎨 [Moreslides](https://github.com/your-moreslides-link) | Build, edit, and share stunning presentations online | React, Canvas, Node.js |
-| ⚙️ [SCORM Player](https://github.com/your-scorm-link) | SCORM-based LMS with progress tracking and file uploads | MERN, SCORM, xAPI |
-| 🛠️ [Dev CLI Tool](https://github.com/your-cli-link) | CLI to scaffold production-ready full-stack apps | Node.js, Shell, Git |
+## 📦 Tools on My Radar
+
+- 🧠 Zustand, Jotai (State Management)
+- ⚡ Bun (Faster JS runtime)
+- 🌍 WebRTC & Real-time Communication
+- 📱 React Native + Expo
+
 
 ---
+
+## 🧾 Certifications & Achievements
+
+- 🏆 Completed Meta Frontend Developer Specialization (Coursera)
+- ✅ Yython Algorithms & Data Structures – (Doing it)
+- 📜 Backend Developer Bootcamp – Udemy (2024)
+ 
+
+---
+
+ 
+
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ajaypoddar&theme=dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajaypoddar&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaypoddar&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaypoddar&show_icons=true&theme=radical&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ajaypoddar&theme=tokyonight&hide_border=true" />
+</p>
+
+ 
+
+ 
+
+
+ 
+
+
+---
+
+## 🧠 What I Believe In
+
+> ✨ *“Make it work, make it right, make it fast.” – Kent Beck*  
+> 💡 *“Great developers don’t just write code, they solve problems.”*
 
 ---
 
@@ -78,12 +112,6 @@ From crafting sleek UIs to deploying production APIs, I'm always learning, build
     <img src="https://img.shields.io/badge/Portfolio-grey?style=flat-square&logo=vercel" />
   </a>
 </p>
-
----
-
-## 🎨 Quote That Drives Me
-
-> _"Code is like humor. When you have to explain it, it’s bad." — Cory House_
 
 ---
 
