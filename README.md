@@ -18,7 +18,7 @@ From crafting sleek UIs to deploying production APIs, I'm always learning, build
 
 ## 🧠 About Me
 
-- 🔭 Currently working on ** Scaramango Technolgies** – an innovative presentation tool  
+- 🔭 Currently working at ** Scaramango Technolgies** – an innovative presentation tool  
 - 🌱 Doing ****, **RealTime app**, **building Amazing Fetures**, and advanced performance optimization  
 - 💬 Ask me about: **JavaScript, React, Node.js, SCORM, Animations, Design Systems (Dsa Too 😉)**  
 - ⚡ Fun fact: I often debug bugs just to find out I forgot a semicolon 😅  
