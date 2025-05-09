@@ -56,43 +56,8 @@ From crafting sleek UIs to deploying production APIs, I'm always learning, build
 
 ---
 
-## 🧾 Certifications & Achievements
-
-- 🏆 Completed Meta Frontend Developer Specialization (Coursera)
-- ✅ Yython Algorithms & Data Structures – (Doing it)
-- 📜 Backend Developer Bootcamp – Udemy (2024)
  
-
----
-
  
-
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajaypoddar&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaypoddar&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ajaypoddar&theme=tokyonight&hide_border=true" />
-</p>
-
- 
-
- 
-
-
- 
-
-
----
-
-## 🧠 What I Believe In
 
 > ✨ *“Make it work, make it right, make it fast.” – Kent Beck*  
 > 💡 *“Great developers don’t just write code, they solve problems.”*
