@@ -1,11 +1,3 @@
- 
-  
-<!-- Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F57C00&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Ajay+Poddar;Full-Stack+Web+Developer;Creative+Technologist+%26+Problem+Solver;Let's+Build+Something+Awesome+Together!">
-</p>
-
----
 
 <h3 align="center">🚀 Passionate SDE from New Delhi, India</h3>
 
