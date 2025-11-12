@@ -12,7 +12,7 @@ From crafting sleek UIs to deploying production APIs, I'm always learning, build
 
 - 🔭 Currently working at ** Scaramango Technolgies** – an innovative presentation tool  
 - 🌱 Doing ****, **RealTime app**, **building Amazing Fetures**, and advanced performance optimization  
-- 💬 Ask me about: **JavaScript, React, Node.js, SCORM, Animations, Design Systems (Dsa Too 😉)**  
+- 💬 Ask me about: **JavaScript, React, Node.js, Nest js , Animations Gsap , lotti files, MongoDb , Design Systems (Dsa Too 😉)**  
 - ⚡ Fun fact: I often debug bugs just to find out I forgot a semicolon 😅  
 - 📫 Reach me at: [ajay.poddar15fea@gmail.com](mailto:ajay.poddar15fea@gmail.com)  
 
@@ -41,9 +41,9 @@ From crafting sleek UIs to deploying production APIs, I'm always learning, build
 ## 📦 Tools on My Radar
 
 - 🧠 Zustand, Jotai (State Management)
-- ⚡ Bun (Faster JS runtime)
+- ⚡ Ripple
 - 🌍 WebRTC & Real-time Communication
-- 📱 React Native + Expo
+- 📱 React Native + Supabase
 
 
 ---
