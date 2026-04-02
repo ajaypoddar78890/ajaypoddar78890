@@ -10,7 +10,7 @@ From crafting sleek UIs to deploying production APIs, I'm always learning, build
 
 ## 🧠 About Me
 
-- 🔭 Currently working at ** Scaramango Technolgies** – an innovative presentation tool  
+- 🔭 Currently working at ** Scaramango Technolgies**   
 - 🌱 Doing ****, **RealTime app**, **building Amazing Fetures**, and advanced performance optimization  
 - 💬 Ask me about: **JavaScript, React, Node.js, Nest js , Animations Gsap , lotti files, MongoDb , Design Systems (Dsa Too 😉)**  
 - ⚡ Fun fact: I often debug bugs just to find out I forgot a semicolon 😅  
@@ -40,10 +40,11 @@ From crafting sleek UIs to deploying production APIs, I'm always learning, build
 
 ## 📦 Tools on My Radar
 
-- 🧠 Zustand, Jotai (State Management)
-- ⚡ Ripple
+- AI/ML
+- LLM From Scratch
 - 🌍 WebRTC & Real-time Communication
-- 📱 React Native + Supabase
+- 📱 React Native + Supabase For Fitness app
+- 
 
 
 ---
